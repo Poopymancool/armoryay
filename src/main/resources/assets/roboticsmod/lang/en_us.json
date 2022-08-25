@@ -1,0 +1,18 @@
+{
+  "item.roboticsmod.hardware":  "Hardware",
+  "item.roboticsmod.hardware_sword":  "Hardware Sword",
+  "item.roboticsmod.virus_sword":  "Virus Sword",
+  "item.roboticsmod.hardware_pickaxe":  "Hardware Pickaxe",
+  "item.roboticsmod.hardware_hoe":  "Hardware Hoe",
+  "item.roboticsmod.hardware_shovel":  "Hardware Shovel",
+  "item.roboticsmod.hardware_axe":  "Hardware Axe",
+  "item.roboticsmod.drill_robot_spawn_egg": "Drill Robot Spawn Egg",
+  "item.roboticsmod.hardware_helmet": "Hardware Helmet",
+  "item.roboticsmod.hardware_chestplate": "Hardware Chestplate",
+  "item.roboticsmod.hardware_leggings": "Hardware Leggings",
+  "item.roboticsmod.hardware_boots": "Hardware Boots",
+
+
+
+  "itemGroup.roboticModTab": "Robotic Mod"
+}
